@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "id":1,
+            "image":"/images/burger.jpg",
+            "type":"Burgers",
+            "name":"Veg Burger",
+            "price":60
+        },
+        {
+            "id":2,
+            "image":"/images/burger.jpg",
+            "type":"Burgers",
+            "name":"Chicken Burger",
+            "price":70
+        },
+        {
+            "id":3,
+            "image":"/images/cake.jpg",
+            "type":"Cakes",
+            "name":"Chocolate cake",
+            "price":40
+        },
+        {
+            "id":4,
+            "image":"/images/cake.jpg",
+            "type":"Cakes",
+            "name":"Vanilla cake",
+            "price":37
+        },
+        {
+            "id":5,
+            "image":"/images/cake.jpg",
+            "type":"Cakes",
+            "name":"Butterscotch cake",
+            "price":35
+        },
+        {
+            "id":6,
+            "image":"/images/roll.jpg",
+            "type":"Rolls",
+            "name":"Veg Roll",
+            "price":40
+        },
+        {
+            "id":7,
+            "image":"/images/roll.jpg",
+            "type":"Rolls",
+            "name":"Chicken Roll",
+            "price":50
+        },
+        {
+            "id":8,
+            "image":"/images/roll.jpg",
+            "type":"Rolls",
+            "name":"Paneer Roll",
+            "price":45
+        },
+        {
+            "id":9,
+            "image":"/images/coke.jpg",
+            "type":"soft-drinks",
+            "name":"coke",
+            "price":20
+        },
+        {
+            "id":10,
+            "image":"/images/coke.jpg",
+            "type":"soft-drinks",
+            "name":"pepsi",
+            "price":20
+        }
+    ]
+}

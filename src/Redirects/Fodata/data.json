@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"Burgers",
+        "description":"Veg Burger",
+        "price":60
+    },
+    {
+        "id":2,
+        "name":"Burgers",
+        "description":"Chicken Burger",
+        "price":70
+    },
+    {
+        "id":3,
+        "name":"Cakes",
+        "description":"Chocolate",
+        "price":40
+    },
+    {
+        "id":4,
+        "name":"Cakes",
+        "description":"Vanilla",
+        "price":37
+    },
+    {
+        "id":5,
+        "name":"Cakes",
+        "description":"Butterscotch",
+        "price":35
+    },
+    {
+        "id":6,
+        "name":"Rolls",
+        "description":"Veg Roll",
+        "price":40
+    },
+    {
+        "id":7,
+        "name":"Rolls",
+        "description":"Chicken Roll",
+        "price":50
+    },
+    {
+        "id":8,
+        "name":"Rolls",
+        "description":"Paneer Roll",
+        "price":45
+    },
+    {
+        "id":9,
+        "name":"soft-drinks",
+        "description":"coke",
+        "price":20
+    },
+    {
+        "id":10,
+        "name":"soft-drinks",
+        "description":"pepsi",
+        "price":20
+    }
+]

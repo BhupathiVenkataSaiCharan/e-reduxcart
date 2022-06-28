@@ -1,0 +1,10 @@
+.menu{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+}
+
+/* .location{
+    padding-left: 500px;
+} */
